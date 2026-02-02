@@ -11,7 +11,7 @@
 
 ### 
 
-### For more info about my work, feel free to check out my website! [CalebMGordon.com]
+### For more info about my work, feel free to check out [my website](CalebMGordon.com).
 
 ### 🖥 My previous coding work was done in R and Unix.
 
