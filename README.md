@@ -1,11 +1,15 @@
 ## Hi there! I’m a vertebrate paleontologist 🦖 at the University of Florida 🐊 
-### 🎓 My PhD research focused on how aquatic and macrocarnivorous habits evolved in reptiles during the time of the dinosaurs.
-### 🔭 My postdoctoral work focuses on how mammals changed in response to drastic global warming ~56 million years ago.
+#### 🎓 My PhD research focused on how aquatic and macrocarnivorous habits evolved in reptiles during the time of the dinosaurs.
+#### 🔭 My postdoctoral work focuses on how mammals adapted to global warming ~56 million years ago.
 
-### 🎓 I pursue this work using a combination of approaches:
-#### 🦴 Classic paleontology methods
-#### 📈 phylogenetic machine-learning algorithms
-#### 🌐 3D modeling techniques. 
+###
+
+### 🔬 I pursue this work using a combination of approaches:
+##### 🦴 Classic paleontology methods
+##### 📈 phylogenetic machine-learning algorithms
+##### 🌐 3D modeling techniques. 
+
+### 
 
 ### For more info about my work, feel free to check out my website! [CalebMGordon.com]
 
