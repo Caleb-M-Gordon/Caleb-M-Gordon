@@ -2,7 +2,12 @@
 ### 🎓 My PhD research focused on how aquatic and macrocarnivorous habits evolved in reptiles during the time of the dinosaurs.
 ### 🔭 My postdoctoral work focuses on how mammals changed in response to drastic global warming ~56 million years ago.
 
-### 🎓 I pursue this work using a combination of classic paleontology methods, phylogenetic machine-learning algorithms, and 3D modeling techniques. For more information about my work, feel free to check out my website! [CalebMGordon.com]
+### 🎓 I pursue this work using a combination of approaches:
+#### 🦴 Classic paleontology methods
+#### 📈 phylogenetic machine-learning algorithms
+#### 🌐 3D modeling techniques. 
+
+### For more info about my work, feel free to check out my website! [CalebMGordon.com]
 
 ### 🖥 My previous coding work was done in R and Unix.
 
