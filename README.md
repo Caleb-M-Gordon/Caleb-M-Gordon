@@ -11,9 +11,9 @@
 
 ### 
 
-### For more info about my work, feel free to check out [my website](https://www.calebmgordon.com).
+#### For more info about my work, feel free to check out [my website](https://www.calebmgordon.com).
 
-### — 🖥 My previous coding work was done primarily in R and Unix.
+#### — 🖥 My previous coding work was done primarily in R and Unix.
 
 #### — 🌱 I’m currently learning Python so that I can more effectively incorporate deep-learning tools into my research. 
 
